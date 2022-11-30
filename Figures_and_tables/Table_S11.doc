@@ -1,0 +1,41 @@
+
+<table style="text-align:center"><tr><td colspan="9" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left">experiment</td><td>temperature C</td><td>RNase pretreatment</td><td>Water type</td><td>target</td><td>k_plot</td><td>standard error</td><td>p</td><td>significance_level</td></tr>
+<tr><td colspan="9" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left">15-1</td><td>15</td><td>No pretreatment</td><td>0.1-F</td><td>HIE Assay</td><td>2.1842</td><td></td><td></td><td></td></tr>
+<tr><td style="text-align:left">15-1</td><td>15</td><td>No pretreatment</td><td>0.1-F</td><td>MK1</td><td>0.1119</td><td>0.0514</td><td>0.1616</td><td></td></tr>
+<tr><td style="text-align:left">15-1</td><td>15</td><td>No pretreatment</td><td>0.1-F</td><td>MK3</td><td>0.0950</td><td>0.0225</td><td>0.0136</td><td>.</td></tr>
+<tr><td style="text-align:left">15-1</td><td>15</td><td>No pretreatment</td><td>0.1-F</td><td>MK5</td><td>0.0930</td><td>0.0203</td><td>0.0101</td><td>.</td></tr>
+<tr><td style="text-align:left">15-1</td><td>15</td><td>No pretreatment</td><td>0.1-F</td><td>MK7</td><td>0.1189</td><td>0.0158</td><td>0.0017</td><td>*</td></tr>
+<tr><td style="text-align:left">15-1</td><td>15</td><td>No pretreatment</td><td>0.1-F</td><td>ORF</td><td>0.0778</td><td>0.0164</td><td>0.0091</td><td>*</td></tr>
+<tr><td style="text-align:left">15-2</td><td>15</td><td>No pretreatment</td><td>0.1-F</td><td>HIE Assay</td><td>0.3618</td><td>0.0832</td><td>0.0490</td><td>.</td></tr>
+<tr><td style="text-align:left">15-2</td><td>15</td><td>No pretreatment</td><td>0.1-F</td><td>MK1</td><td>0.0036</td><td>0.0921</td><td>0.9721</td><td></td></tr>
+<tr><td style="text-align:left">15-2</td><td>15</td><td>RNase pretreatment</td><td>0.1-F</td><td>MK1</td><td>-0.0748</td><td>0.1268</td><td>0.6151</td><td></td></tr>
+<tr><td style="text-align:left">15-2</td><td>15</td><td>No pretreatment</td><td>0.1-F</td><td>MK3</td><td>-0.0182</td><td>0.0972</td><td>0.8685</td><td></td></tr>
+<tr><td style="text-align:left">15-2</td><td>15</td><td>RNase pretreatment</td><td>0.1-F</td><td>MK3</td><td>-0.0159</td><td>0.0949</td><td>0.8826</td><td></td></tr>
+<tr><td style="text-align:left">15-2</td><td>15</td><td>No pretreatment</td><td>0.1-F</td><td>MK5</td><td>-0.0530</td><td>0.1122</td><td>0.6829</td><td></td></tr>
+<tr><td style="text-align:left">15-2</td><td>15</td><td>RNase pretreatment</td><td>0.1-F</td><td>MK5</td><td>-0.0309</td><td>0.1033</td><td>0.7930</td><td></td></tr>
+<tr><td style="text-align:left">15-2</td><td>15</td><td>No pretreatment</td><td>0.1-F</td><td>MK7</td><td>0.0385</td><td>0.1913</td><td>0.8591</td><td></td></tr>
+<tr><td style="text-align:left">15-2</td><td>15</td><td>RNase pretreatment</td><td>0.1-F</td><td>MK7</td><td>-0.0694</td><td>0.0938</td><td>0.5366</td><td></td></tr>
+<tr><td style="text-align:left">15-2</td><td>15</td><td>No pretreatment</td><td>0.1-F</td><td>ORF</td><td>-0.0230</td><td>0.0243</td><td>0.4429</td><td></td></tr>
+<tr><td style="text-align:left">15-2</td><td>15</td><td>RNase pretreatment</td><td>0.1-F</td><td>ORF</td><td>-0.0105</td><td>0.0362</td><td>0.7999</td><td></td></tr>
+<tr><td style="text-align:left">20-1</td><td>20</td><td>No pretreatment</td><td>0.22-F</td><td>HIE Assay</td><td>0.3196</td><td>0.0620</td><td>0.1220</td><td></td></tr>
+<tr><td style="text-align:left">20-1</td><td>20</td><td>No pretreatment</td><td>0.22-F</td><td>OL1b</td><td>0.1142</td><td>0.1215</td><td>0.5197</td><td></td></tr>
+<tr><td style="text-align:left">20-1</td><td>20</td><td>No pretreatment</td><td>0.22-F</td><td>OL3a</td><td>0.0821</td><td>0.1324</td><td>0.6465</td><td></td></tr>
+<tr><td style="text-align:left">20-1</td><td>20</td><td>No pretreatment</td><td>0.22-F</td><td>OL5a</td><td>0.1054</td><td>0.1123</td><td>0.5201</td><td></td></tr>
+<tr><td style="text-align:left">20-1</td><td>20</td><td>No pretreatment</td><td>0.22-F</td><td>OL7b</td><td>0.0730</td><td>0.1696</td><td>0.7412</td><td></td></tr>
+<tr><td style="text-align:left">20-1</td><td>20</td><td>No pretreatment</td><td>0.22-F</td><td>ORF</td><td>0.0572</td><td>0.1054</td><td>0.6836</td><td></td></tr>
+<tr><td style="text-align:left">20-2</td><td>20</td><td>No pretreatment</td><td>0.22-F</td><td>HIE Assay</td><td>0.2102</td><td>0.0556</td><td>0.0324</td><td>.</td></tr>
+<tr><td style="text-align:left">20-2</td><td>20</td><td>No pretreatment</td><td>0.22-F</td><td>OL1b</td><td>0.0157</td><td>0.0253</td><td>0.5694</td><td></td></tr>
+<tr><td style="text-align:left">20-2</td><td>20</td><td>RNase pretreatment</td><td>0.22-F</td><td>OL1b</td><td>0.0468</td><td>0.0172</td><td>0.0528</td><td></td></tr>
+<tr><td style="text-align:left">20-2</td><td>20</td><td>No pretreatment</td><td>0.22-F</td><td>OL3a</td><td>0.0170</td><td>0.0310</td><td>0.6118</td><td></td></tr>
+<tr><td style="text-align:left">20-2</td><td>20</td><td>RNase pretreatment</td><td>0.22-F</td><td>OL3a</td><td>0.0157</td><td>0.0084</td><td>0.1355</td><td></td></tr>
+<tr><td style="text-align:left">20-2</td><td>20</td><td>No pretreatment</td><td>0.22-F</td><td>OL5a</td><td>0.0187</td><td>0.0311</td><td>0.5801</td><td></td></tr>
+<tr><td style="text-align:left">20-2</td><td>20</td><td>RNase pretreatment</td><td>0.22-F</td><td>OL5a</td><td>0.0116</td><td>0.0084</td><td>0.2404</td><td></td></tr>
+<tr><td style="text-align:left">20-2</td><td>20</td><td>No pretreatment</td><td>0.22-F</td><td>OL7b</td><td>0.0079</td><td>0.0356</td><td>0.8355</td><td></td></tr>
+<tr><td style="text-align:left">20-2</td><td>20</td><td>RNase pretreatment</td><td>0.22-F</td><td>OL7b</td><td>0.0075</td><td>0.0128</td><td>0.5868</td><td></td></tr>
+<tr><td style="text-align:left">20-2</td><td>20</td><td>No pretreatment</td><td>0.22-F</td><td>ORF</td><td>0.0049</td><td>0.0248</td><td>0.8540</td><td></td></tr>
+<tr><td style="text-align:left">20-2</td><td>20</td><td>RNase pretreatment</td><td>0.22-F</td><td>ORF</td><td>-0.0120</td><td>0.0136</td><td>0.4267</td><td></td></tr>
+<tr><td style="text-align:left">15-1</td><td>15</td><td>No pretreatment</td><td>0.1-F</td><td>Genome-wide extrapolation</td><td>1.4673</td><td>0.2750</td><td>0.0059</td><td>*</td></tr>
+<tr><td style="text-align:left">15-2</td><td>15</td><td>No pretreatment</td><td>0.1-F</td><td>Genome-wide extrapolation</td><td>-0.1078</td><td>1.6768</td><td>0.9546</td><td></td></tr>
+<tr><td style="text-align:left">20-1</td><td>20</td><td>No pretreatment</td><td>0.22-F</td><td>Genome-wide extrapolation</td><td>1.4477</td><td>2.0698</td><td>0.6114</td><td></td></tr>
+<tr><td style="text-align:left">20-2</td><td>20</td><td>No pretreatment</td><td>0.22-F</td><td>Genome-wide extrapolation</td><td>0.2292</td><td>0.4711</td><td>0.6521</td><td></td></tr>
+<tr><td colspan="9" style="border-bottom: 1px solid black"></td></tr></table>

@@ -1,0 +1,18 @@
+
+<table style="text-align:center"><tr><td colspan="5" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left">target</td><td>R2</td><td>efficiency</td><td>slope</td><td>intercept</td></tr>
+<tr><td colspan="5" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left">ssRNA</td><td>0.99</td><td>84.33</td><td>-3.77</td><td>36.78</td></tr>
+<tr><td style="text-align:left">dsDNA</td><td>0.99</td><td>93.53</td><td>-3.49</td><td>36.38</td></tr>
+<tr><td style="text-align:left">ssRNA_exp2</td><td>1</td><td>78.18</td><td>-3.99</td><td>37.79</td></tr>
+<tr><td style="text-align:left">MK1</td><td>0.99</td><td>83.48</td><td>-3.79</td><td>40.91</td></tr>
+<tr><td style="text-align:left">MK3</td><td>0.99</td><td>86.93</td><td>-3.68</td><td>39.15</td></tr>
+<tr><td style="text-align:left">MK5</td><td>0.98</td><td>87.23</td><td>-3.67</td><td>39.47</td></tr>
+<tr><td style="text-align:left">MK7</td><td>0.99</td><td>84.74</td><td>-3.75</td><td>40.79</td></tr>
+<tr><td style="text-align:left">MK1_exp2</td><td>1</td><td>84.49</td><td>-3.76</td><td>37.71</td></tr>
+<tr><td style="text-align:left">MK3_exp2</td><td>0.99</td><td>92.05</td><td>-3.53</td><td>35.89</td></tr>
+<tr><td style="text-align:left">MK5_exp2</td><td>0.98</td><td>100.13</td><td>-3.32</td><td>35.08</td></tr>
+<tr><td style="text-align:left">MK7_exp2</td><td>1</td><td>90.75</td><td>-3.57</td><td>36.29</td></tr>
+<tr><td style="text-align:left">OL1b</td><td>0.95</td><td>76.60</td><td>-4.05</td><td>37.82</td></tr>
+<tr><td style="text-align:left">OL3a</td><td>0.97</td><td>80.50</td><td>-3.90</td><td>37.89</td></tr>
+<tr><td style="text-align:left">OL5a</td><td>0.99</td><td>81.41</td><td>-3.87</td><td>39.37</td></tr>
+<tr><td style="text-align:left">OL7b</td><td>0.93</td><td>80.84</td><td>-3.89</td><td>44.73</td></tr>
+<tr><td colspan="5" style="border-bottom: 1px solid black"></td></tr></table>

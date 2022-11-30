@@ -1,0 +1,7 @@
+
+<table style="text-align:center"><tr><td colspan="6" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left">experiment</td><td>temperature C</td><td>k_plot</td><td>standard error</td><td>p</td><td>significance_level</td></tr>
+<tr><td colspan="6" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left">15-1</td><td>15</td><td>1.4673</td><td>0.2750</td><td>0.0059</td><td>*</td></tr>
+<tr><td style="text-align:left">15-2</td><td>15</td><td>-0.1078</td><td>1.6768</td><td>0.9546</td><td></td></tr>
+<tr><td style="text-align:left">20-1</td><td>20</td><td>1.4477</td><td>2.0698</td><td>0.6114</td><td></td></tr>
+<tr><td style="text-align:left">20-2</td><td>20</td><td>0.2292</td><td>0.4711</td><td>0.6521</td><td></td></tr>
+<tr><td colspan="6" style="border-bottom: 1px solid black"></td></tr></table>

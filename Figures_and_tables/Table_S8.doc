@@ -1,0 +1,7 @@
+
+<table style="text-align:center"><tr><td colspan="5" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left">term</td><td>estimate</td><td>std.error</td><td>statistic</td><td>p.value</td></tr>
+<tr><td colspan="5" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left">(Intercept)</td><td>-0.49</td><td>0.45</td><td>-1.07</td><td>0.31</td></tr>
+<tr><td style="text-align:left">day</td><td>-0.32</td><td>0.19</td><td>-1.72</td><td>0.12</td></tr>
+<tr><td style="text-align:left">t20</td><td>-0.30</td><td>0.59</td><td>-0.50</td><td>0.63</td></tr>
+<tr><td style="text-align:left">day:t20</td><td>0.08</td><td>0.19</td><td>0.43</td><td>0.68</td></tr>
+<tr><td colspan="5" style="border-bottom: 1px solid black"></td></tr></table>
